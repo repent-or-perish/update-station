@@ -1,7 +1,7 @@
 Update Station
 =========
 
-Update Station is a GUI application for managing software updates on FreeBSD-based systems. It provides a user-friendly interface to check for updates, install updates, and handle system upgrades.
+Update Station is a GUI application for managing software updates on GhostBSD-based systems. It provides a user-friendly interface to check for updates, install updates, and handle system upgrades.
 
 ## Features
 
