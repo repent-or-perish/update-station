@@ -17,7 +17,7 @@ Update Station is a GUI application for managing software updates on GhostBSD-ba
 1. **Install Dependencies**:
    Ensure you have the necessary dependencies installed:
    ```
-   pkg install py37-gtk3 py37-appindicator
+   pkg install libappindicator
    ```
 
 2. **Clone the Repository**:
