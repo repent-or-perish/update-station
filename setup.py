@@ -25,7 +25,7 @@ PROGRAM_VERSION = __VERSION__
 prefix = sys.prefix
 
 # compiling translations
-os.system("sh compile_translations.sh")
+os.system("sh src/compile_translations.sh")
 
 
 def datafilelist(installbase, sourcebase):
